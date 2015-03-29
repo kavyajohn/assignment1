@@ -1,0 +1,4 @@
+s=“Python is a wonderful programming language.”
+print(S)
+len(S)
+s.count('a')
