@@ -1,0 +1,4 @@
+ >>> str_raw = 'hello\nwort'
+>>> print(r'hello\nwort')
+hello\nwort
+>>> print(str_raw)
