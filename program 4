@@ -1,0 +1,6 @@
+s = 0
+s1 = 1
+s and s1
+s or s1
+not s
+not s1
