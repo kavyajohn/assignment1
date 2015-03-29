@@ -1,0 +1,3 @@
+s=“HelLo MoNTy PyThOn”
+print(S)
+s.upper()
