@@ -1,0 +1,7 @@
+def area(length , breath):
+	"""this is a function which gives the area"""
+	return length*breadth
+print("area")
+num1 =int(input("enter a first number"))
+num2 =int(input("entera second number"))
+print((num1,"*,num2,"=", add(num1,num2))
