@@ -1,0 +1,3 @@
+s = 'hello world'
+s1 ="hello world"
+s3 = """hello world"""
