@@ -1,0 +1,3 @@
+>>> x=8
+>>> y='hello'
+>>> print("%s is %d"%(y,x))
