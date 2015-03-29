@@ -1,0 +1,4 @@
+s = 5 
+print(S)
+s1 = "HELLO_WORLD"
+print(S1)
